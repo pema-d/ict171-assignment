@@ -22,3 +22,5 @@ The goal is to demonstrate Infrastructure as a Service (IaaS) and gain experienc
 
 ### License:
 MIT License
+## Video Explainer
+[Click here to watch the assignment demo] (https://youtu.be/amPifD6RRnE)
